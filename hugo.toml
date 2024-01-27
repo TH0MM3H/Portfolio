@@ -1,4 +1,4 @@
-baseURL = 'https://tommykoolwijk.nl'
+baseURL = 'https://tommykoolwijk.nl/'
 languageCode = 'en-us'
 title = 'My Portfolio'
 theme = 'hugo-coder'
