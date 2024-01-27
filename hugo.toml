@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://tommykoolwijk.nl'
 languageCode = 'en-us'
 title = 'My Portfolio'
 theme = 'hugo-coder'
